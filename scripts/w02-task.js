@@ -6,7 +6,7 @@
 
 let fullName = "Fabian Betancourt";
 let currentYear = new Date().getFullYear();
-let profilePicture = "images/Foto.jpeg";
+let profilePicture = "images/profile.jpeg";
 
 /* Step 3 - Element Variables */
 
